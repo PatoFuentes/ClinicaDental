@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <?php
 ?>
 
+=======
+>>>>>>> 51e7436232204842551184c10b3a66859cd8f815
 <!DOCTYPE html>
 <html lang="en">
 
@@ -19,11 +22,19 @@
 	<link rel="icon" type="image/png" href="img/favicons/favicon-16x16.png" sizes="16x16">
 	<link rel="manifest" href="img/favicons/manifest.json">
 	<link rel="shortcut icon" href="img/favicons/favicon.ico">
+<<<<<<< HEAD
 	<meta name="msapplication-TileColor" content="#00a8ff">
 	<meta name="msapplication-config" content="img/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 	<!-- Normalize -->
 	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+=======
+	<meta name="msapplication-TileColor" content="#00a8ff">	
+	<meta name="msapplication-config" content="img/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<!-- Normalize  -->
+	<link rel="stylesheet" type="text/css" href="css/normalize.css" >
+>>>>>>> 51e7436232204842551184c10b3a66859cd8f815
 	<!-- Bootstrap -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<!-- Owl -->
@@ -37,7 +48,10 @@
 	<!-- Main style -->
 	<link rel="stylesheet" type="text/css" href="css/cardio.css">
 </head>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 51e7436232204842551184c10b3a66859cd8f815
 <body>
 	<div class="preloader">
 		<img src="img/loader.gif" alt="Preloader image">
@@ -61,7 +75,11 @@
 					<li><a href="#services">Services</a></li>
 					<li><a href="#team">Team</a></li>
 					<li><a href="#pricing">Pricing</a></li>
+<<<<<<< HEAD
 					<li><a href="php/registration.php" class="btn btn-blue">Sign Up</a></li>
+=======
+					<li><a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue">Sign Up</a></li>
+>>>>>>> 51e7436232204842551184c10b3a66859cd8f815
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
@@ -74,8 +92,13 @@
 				<div class="header-text">
 					<div class="row">
 						<div class="col-md-12 text-center">
+<<<<<<< HEAD
 							<h3 class="light white">Take care of your body.</h3>
 							<h1 class="white typed">It's the only place you have to live.</h1>
+=======
+							<h3 class="light white">Clinica dental</h3>
+							<h1 class="white typed">Tus dientes, nuestra prioridad.</h1>
+>>>>>>> 51e7436232204842551184c10b3a66859cd8f815
 							<span class="typed-cursor">|</span>
 						</div>
 					</div>
@@ -372,7 +395,11 @@
 		</div>
 	</section>
 	<div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<<<<<<< HEAD
 		<!-- <div class="modal-dialog">
+=======
+		<div class="modal-dialog">
+>>>>>>> 51e7436232204842551184c10b3a66859cd8f815
 			<div class="modal-content modal-popup">
 				<a href="#" class="close-link"><i class="icon_close_alt2"></i></a>
 				<h3 class="white">Sign Up</h3>
@@ -399,7 +426,11 @@
 					<button type="submit" class="btn btn-submit">Submit</button>
 				</form>
 			</div>
+<<<<<<< HEAD
 		</div> -->
+=======
+		</div>
+>>>>>>> 51e7436232204842551184c10b3a66859cd8f815
 	</div>
 	<footer>
 		<div class="container">

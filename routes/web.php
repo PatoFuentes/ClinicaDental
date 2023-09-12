@@ -14,5 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+<<<<<<< HEAD
     return view('index');
+=======
+    return View('index');
+>>>>>>> 51e7436232204842551184c10b3a66859cd8f815
 });
