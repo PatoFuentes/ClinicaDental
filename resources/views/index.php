@@ -99,7 +99,7 @@
 								</div>
 								<div class="schedule-row row">
 									<div class="col-xs-6">
-										<h5 class="regular white">Muscle Building</h5>
+										<h5 class="regular white">CONSTRUYE TUS MUSCULOS</h5>
 									</div>
 									<div class="col-xs-6 text-right">
 										<h5 class="white">8:30 - 10:00</h5>
